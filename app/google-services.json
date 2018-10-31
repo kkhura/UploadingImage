@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "35307529876",
+    "firebase_url": "https://uploadfile-18622.firebaseio.com",
+    "project_id": "uploadfile-18622",
+    "storage_bucket": "uploadfile-18622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35307529876:android:571a0189ee4eab33",
+        "android_client_info": {
+          "package_name": "kkhura.com.uploadingimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35307529876-glm46b3cm50cp6gv39of244qn5q02eko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2HBTzJr0Pn64WRz6Nhf614No7yTq_oTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
